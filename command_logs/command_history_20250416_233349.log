@@ -1,0 +1,14 @@
+[2025-04-16 23:33:49] [/workspaces/ICE2] source .devcontainer/shell.sh
+[2025-04-16 23:39:23] [/workspaces/ICE2] mkdir projec
+[2025-04-16 23:39:47] [/workspaces/ICE2] mkdir projec/docs
+[2025-04-16 23:40:08] [/workspaces/ICE2] mkdir projec/docs/drafts
+[2025-04-16 23:40:27] [/workspaces/ICE2] mkdir projec/docs/final
+[2025-04-16 23:43:52] [/workspaces/ICE2] mkdir -p project/{lib,test}
+[2025-04-16 23:44:26] [/workspaces/ICE2] mkdir -p projec/{lib,test}
+[2025-04-16 23:44:56] [/workspaces/ICE2] rm -rf project/lib
+[2025-04-16 23:45:09] [/workspaces/ICE2] rm -rf projec/lib
+[2025-04-16 23:49:08] [/workspaces/ICE2] rm -rf projec/test
+[2025-04-16 23:50:08] [/workspaces/ICE2] mkdir -p projec/src/{lib tests}
+[2025-04-16 23:50:19] [/workspaces/ICE2] mkdir -p projec/backup
+[2025-04-16 23:50:22] [/workspaces/ICE2] tree
+[2025-04-16 23:51:08] [/workspaces/ICE2] tree

@@ -1,0 +1,4 @@
+[2025-04-17 15:07:03] [/workspaces/ICE2] source .devcontainer/shell.sh
+[2025-04-17 15:22:02] [/workspaces/ICE2] find /projec -name "*.py"
+[2025-04-17 15:22:29] [/workspaces/ICE2] find / -name "*.py"
+[2025-04-17 15:22:33] [/workspaces/ICE2] find / -name "*.py"

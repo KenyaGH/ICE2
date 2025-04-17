@@ -1,0 +1,43 @@
+[2025-04-17 04:25:36] [/workspaces/ICE2] source .devcontainer/shell.sh
+[2025-04-17 05:04:15] [/workspaces/ICE2] mkdir project/docs/drafts/outline.txt
+[2025-04-17 05:04:29] [/workspaces/ICE2] mkdir projec/docs/drafts/outline.txt
+[2025-04-17 05:05:05] [/workspaces/ICE2] projec/docs/drafts/outline.txt
+[2025-04-17 05:05:42] [/workspaces/ICE2] project/src/lib/functions.py
+[2025-04-17 05:06:23] [/workspaces/ICE2] projec/src/lib/functions.py
+[2025-04-17 05:09:03] [/workspaces/ICE2] projec/src/lib/functions.py
+[2025-04-17 05:09:31] [/workspaces/ICE2] projec/src/tests/test_functions.py
+[2025-04-17 05:10:27] [/workspaces/ICE2] project/src/{lib/functions.py 
+[2025-04-17 05:29:46] [/workspaces/ICE2] tree
+[2025-04-17 05:34:40] [/workspaces/ICE2] mkdir project/src/{lib,test}
+[2025-04-17 05:34:49] [/workspaces/ICE2] mkdir projec/src/{lib,test}
+[2025-04-17 05:34:56] [/workspaces/ICE2] tree
+[2025-04-17 05:35:39] [/workspaces/ICE2] projec/src/lib/functions.py 
+[2025-04-17 05:36:13] [/workspaces/ICE2] projec/docs/drafts/outline.txt
+[2025-04-17 05:36:51] [/workspaces/ICE2] projec/src/lib/functions.py  
+[2025-04-17 05:37:24] [/workspaces/ICE2] mkdir projec/src/lib/functions.py
+[2025-04-17 05:37:48] [/workspaces/ICE2] mkdir projec/src/tests/test_functions.py
+[2025-04-17 05:38:00] [/workspaces/ICE2] mkdir projec/src/test/test_functions.py
+[2025-04-17 05:39:36] [/workspaces/ICE2] mkdir projec/docs/final/final_function.gitkeep
+[2025-04-17 05:49:37] [/workspaces/ICE2] cp functions.py backup
+[2025-04-17 05:50:42] [/workspaces/ICE2] cp -r functions.py/backup
+[2025-04-17 05:51:11] [/workspaces/ICE2] cp functions.py/backup
+[2025-04-17 05:55:02] [/workspaces/ICE2] cp -r  functions.py/ backup/
+[2025-04-17 05:55:34] [/workspaces/ICE2] cp -r  functions.py backup/
+[2025-04-17 05:55:48] [/workspaces/ICE2] cp -r  functions.py/backup/
+[2025-04-17 05:57:56] [/workspaces/ICE2] cp functions.py/backup/
+[2025-04-17 06:15:53] [/workspaces/ICE2] cp functions.py backup
+[2025-04-17 06:17:45] [/workspaces/ICE2] cp src/lib/functions.py backup
+[2025-04-17 06:18:03] [/workspaces/ICE2] cp projec/src/lib/functions.py backup
+[2025-04-17 06:18:13] [/workspaces/ICE2] cp -r  projec/src/lib/functions.py backup
+[2025-04-17 06:19:43] [/workspaces/ICE2] cp -r backup  projec/src/lib/functions.py 
+[2025-04-17 06:20:02] [/workspaces/ICE2] cp -r projec/backup  projec/src/lib/functions.py 
+[2025-04-17 06:21:08] [/workspaces/ICE2] cp -r projec/src/lib/functions.py projec/backup
+[2025-04-17 06:23:17] [/workspaces/ICE2] mv projec/docs/drafts/outline.txt projec/docs/final 
+[2025-04-17 06:26:58] [/workspaces/ICE2] ln -s projec/docs/final projec/src/lib/functions.py
+[2025-04-17 06:48:35] [/workspaces/ICE2] find/projec/"*py"
+[2025-04-17 06:48:58] [/workspaces/ICE2] find projec/"*py"
+[2025-04-17 06:50:07] [/workspaces/ICE2] find /projec/"*.py"
+[2025-04-17 06:53:17] [/workspaces/ICE2] find /~projec "*.py"
+[2025-04-17 06:53:33] [/workspaces/ICE2] find /-projec "*.py"
+[2025-04-17 06:53:43] [/workspaces/ICE2] find /-name "*.py"
+[2025-04-17 06:54:17] [/workspaces/ICE2] find /project/-name "*.py"
